@@ -1,0 +1,349 @@
+.body {
+    font-family: 'Bradley Hand', cursive;
+  }
+.first{
+    background-color: #010101;
+    position: absolute;
+    left: 500px;
+    top: 60px;
+    height: 450px;
+    width: 270px;
+    border: 1px rgb(165, 245, 96) solid;
+    border-radius: 3px;
+}
+.row5{
+    position: absolute;
+    left: 10px;
+    top: 370px;
+}
+.row5but1{
+    background-color: #171719;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border-color: #171719;
+    color: white;
+    font-size:25px;
+    cursor: pointer;
+}
+.row5but1:hover{
+    background-color: #323236;
+}
+.row5but2{
+    background-color: #171719;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border-color: #171719;
+    color: white;
+    font-size:25px;
+    cursor: pointer;
+}
+.row5but2:hover{
+    background-color: #323236;
+}
+.row5but3{
+    background-color: #171719;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border-color: #171719;
+    color: white;
+    font-size:25px;
+    cursor: pointer;
+}
+.row5but3:hover{
+    background-color: #323236;
+}
+.row5but4{
+    background-color: #318607;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border-color: #171719;
+    color: white;
+    font-size:25px;  
+    cursor: pointer;
+}
+.row5but4:hover{
+    background-color: #47c409;
+}
+
+.row4{
+    position: absolute;
+    left: 10px;
+    top: 300px;
+}
+.row4but1{
+    background-color: #171719;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border-color: #171719;
+    color: white;
+    font-size:25px;
+    cursor: pointer;
+}
+.row4but1:hover{
+    background-color: #323236;
+}
+.row4but2{
+    background-color: #171719;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border-color: #171719;
+    color: white;
+    font-size:25px;
+    cursor: pointer;
+}
+.row4but2:hover{
+    background-color: #323236;
+}
+.row4but3{
+    background-color: #171719;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border-color: #171719;
+    color: white;
+    font-size:25px;
+    cursor: pointer;
+}
+.row4but3:hover{
+    background-color: #323236;
+}
+.row4but4{
+    background-color: #313132;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    color: #379508;
+    font-size:30px;  
+    cursor: pointer;
+}
+.row4but4:hover{
+    background-color: #4c4c50;
+}
+
+/* ffffff */
+
+.row3{
+    position: absolute;
+    left: 10px;
+    top: 230px;
+}
+.row3but1{
+    background-color: #171719;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border-color: #171719;
+    color: white;
+    font-size:25px;
+    cursor: pointer;
+}
+.row3but1:hover{
+    background-color: #323236;
+}
+.row3but2{
+    background-color: #171719;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border-color: #171719;
+    color: white;
+    font-size:25px;
+    cursor: pointer;
+}
+.row3but2:hover{
+    background-color: #323236;
+}
+.row3but3{
+    background-color: #171719;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border-color: #171719;
+    color: white;
+    font-size:25px;
+    cursor: pointer;
+}
+.row3but3:hover{
+    background-color: #323236;
+}
+.row3but4{
+    background-color: #313132;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    color: #379508;
+    font-size:30px;  
+    cursor: pointer;
+}
+.row3but4:hover{
+    background-color: #4c4c50;
+}
+
+
+/* ffffff */
+
+.row2{
+    position: absolute;
+    left: 10px;
+    top: 160px;
+}
+.row2but1{
+    background-color: #171719;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border-color: #171719;
+    color: white;
+    font-size:25px;
+    cursor: pointer;
+}
+.row2but1:hover{
+    background-color: #323236;
+}
+.row2but2{
+    background-color: #171719;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border-color: #171719;
+    color: white;
+    font-size:25px;
+    cursor: pointer;
+}
+.row2but2:hover{
+    background-color: #323236;
+}
+.row2but3{
+    background-color: #171719;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border-color: #171719;
+    color: white;
+    font-size:25px;
+    cursor: pointer;
+}
+.row2but3:hover{
+    background-color: #323236;
+}
+.row2but4{
+    background-color: #313132;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    color: #379508;
+    font-size:26px;  
+    cursor: pointer;
+}
+.row2but4:hover{
+    background-color: #4c4c50;
+}
+
+
+/* ffffff */
+
+.row1{
+    position: absolute;
+    left: 10px;
+    top: 90px;
+}
+.row1but1{
+    background-color: #313132;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border-color: #171719;
+    color: red;
+    font-size:25px;
+    cursor: pointer;
+}
+.row1but1:hover{
+    background-color: #4c4c50;
+}
+.row1but2{
+    background-color: #313132;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border-color: #171719;
+    text-align: center;
+    color: #379508;
+    font-size:22px;
+    cursor: pointer;
+}
+.row1but2:hover{
+    background-color: #4c4c50;
+}
+.row1but3{
+    background-color: #313132;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border-color: #171719;
+    color: #379508;
+    font-size:25px;
+    cursor: pointer;
+}
+.row1but3:hover{
+    background-color: #4c4c50;
+}
+.row1but4{
+    background-color: #313132;
+    border: none;
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    color: #379508;
+    font-size:30px;  
+    cursor: pointer;
+}
+.row1but4:hover{
+    background-color: #4c4c50;
+}
+.line{
+    background-color: #6e6a6a;
+    position: absolute;
+    left: 5px;
+    top: 80px;
+    height: 1px;
+    width: 260px;
+}
+
+.inbox{
+    position: absolute;
+    top:18px ;
+    left: 0px;
+    border-radius: 5px;
+    height: 40px;
+    width: 260px;
+    background-color: #010101;
+    color: rgb(9, 195, 241);
+    text-align: right;
+    border: none ;
+    font-size: 25px;
+}

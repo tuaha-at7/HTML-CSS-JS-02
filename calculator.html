@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Calculator</title>
+        <link rel="stylesheet" href="calculator.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" 
+        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" 
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    </head>
+    <body>
+        <div class="first">
+            <div class="row5">
+                <button class="row5but1" onclick="num('00')">00</button>
+                <button class="row5but2" onclick="num('0')">0</button>
+                <button class="row5but3" onclick="num('.')">.</button>
+                <button class="row5but4" onclick="process()">=</button>
+            </div>
+            <div class="row4">
+                <button class="row4but1" onclick="num('1')">1</button>
+                <button class="row4but2" onclick="num('2')">2</button>
+                <button class="row4but3" onclick="num('3')">3</button>
+                <button class="row4but4" onclick="opp('+')">+</button>
+            </div>
+            <div class="row3">
+                <button class="row3but1" onclick="num('4')">4</button>
+                <button class="row3but2" onclick="num('5')">5</button>
+                <button class="row3but3" onclick="num('6')">6</button>
+                <button class="row3but4" onclick="opp('-')">-</button>
+            </div>
+            <div class="row2">
+                <button class="row2but1" onclick="num('7')">7</button>
+                <button class="row2but2" onclick="num('8')">8</button>
+                <button class="row2but3" onclick="num('9')">9</button>
+                <button class="row2but4" onclick="opp('*')">X</button>
+            </div>
+            <div class="row1">
+                <button class="row1but1" onclick="clearn()">C</button>
+                <button class="row1but2" onclick="slice()">
+                    <i class="fa-solid fa-delete-left"></i>
+                </button>
+                <button class="row1but3" onclick="opp('%')">%</button>
+                <button class="row1but4" onclick="opp('/')">÷</button>
+            </div>
+            <div class="line"></div>
+            <input type="text" id="inbox" class="inbox">
+        </div>
+    </body>
+    <script src="calculator.js"></script>
+</html>
